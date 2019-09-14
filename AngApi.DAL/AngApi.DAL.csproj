@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Model\ItemDetailContext.cs---" />
+    <None Remove="Model\PutUpDetail.cs--" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Model\ItemDetailContext.cs---" />
+    <Compile Include="Model\PutUpDetail.cs--" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AngApi.BLL\AngApi.BLL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.EntityFrameworkCore">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.entityframeworkcore\2.1.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

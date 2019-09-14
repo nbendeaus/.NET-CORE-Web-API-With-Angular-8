@@ -1,0 +1,38 @@
+E:\Task\AngularApi\AngApi\bin\Debug\netcoreapp2.1\AngApi.deps.json
+E:\Task\AngularApi\AngApi\bin\Debug\netcoreapp2.1\AngApi.runtimeconfig.json
+E:\Task\AngularApi\AngApi\bin\Debug\netcoreapp2.1\AngApi.runtimeconfig.dev.json
+E:\Task\AngularApi\AngApi\bin\Debug\netcoreapp2.1\AngApi.dll
+E:\Task\AngularApi\AngApi\bin\Debug\netcoreapp2.1\AngApi.pdb
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.csproj.CoreCompileInputs.cache
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.RazorAssemblyInfo.cache
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.RazorAssemblyInfo.cs
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.AssemblyInfoInputs.cache
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.AssemblyInfo.cs
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.RazorTargetAssemblyInfo.cache
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.dll
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.pdb
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.csprojAssemblyReference.cache
+E:\Task\AngularApi\AngApi\bin\Debug\netcoreapp2.1\AngApi.BLL.dll
+E:\Task\AngularApi\AngApi\bin\Debug\netcoreapp2.1\AngApi.DAL.dll
+E:\Task\AngularApi\AngApi\bin\Debug\netcoreapp2.1\AngApi.BLL.pdb
+E:\Task\AngularApi\AngApi\bin\Debug\netcoreapp2.1\AngApi.DAL.pdb
+E:\Task\AngularApi\AngApi\obj\Debug\netcoreapp2.1\AngApi.csproj.CopyComplete
+E:\Task\AngularApi - Copy\AngApi\bin\Debug\netcoreapp2.1\AngApi.deps.json
+E:\Task\AngularApi - Copy\AngApi\bin\Debug\netcoreapp2.1\AngApi.runtimeconfig.json
+E:\Task\AngularApi - Copy\AngApi\bin\Debug\netcoreapp2.1\AngApi.runtimeconfig.dev.json
+E:\Task\AngularApi - Copy\AngApi\bin\Debug\netcoreapp2.1\AngApi.dll
+E:\Task\AngularApi - Copy\AngApi\bin\Debug\netcoreapp2.1\AngApi.pdb
+E:\Task\AngularApi - Copy\AngApi\bin\Debug\netcoreapp2.1\AngApi.BLL.dll
+E:\Task\AngularApi - Copy\AngApi\bin\Debug\netcoreapp2.1\AngApi.DAL.dll
+E:\Task\AngularApi - Copy\AngApi\bin\Debug\netcoreapp2.1\AngApi.BLL.pdb
+E:\Task\AngularApi - Copy\AngApi\bin\Debug\netcoreapp2.1\AngApi.DAL.pdb
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.csprojAssemblyReference.cache
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.csproj.CoreCompileInputs.cache
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.RazorAssemblyInfo.cache
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.RazorAssemblyInfo.cs
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.AssemblyInfoInputs.cache
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.AssemblyInfo.cs
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.RazorTargetAssemblyInfo.cache
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.csproj.CopyComplete
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.dll
+E:\Task\AngularApi - Copy\AngApi\obj\Debug\netcoreapp2.1\AngApi.pdb

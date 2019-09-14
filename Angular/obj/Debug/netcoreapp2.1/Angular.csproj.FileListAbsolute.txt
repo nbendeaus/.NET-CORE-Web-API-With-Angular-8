@@ -1,0 +1,4 @@
+E:\Task\AngularApi\Angular\obj\Debug\netcoreapp2.1\Angular.csprojAssemblyReference.cache
+E:\Task\AngularApi\Angular\obj\Debug\netcoreapp2.1\Angular.csproj.CoreCompileInputs.cache
+E:\Task\AngularApi\Angular\obj\Debug\netcoreapp2.1\Angular.AssemblyInfoInputs.cache
+E:\Task\AngularApi\Angular\obj\Debug\netcoreapp2.1\Angular.AssemblyInfo.cs

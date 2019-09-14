@@ -1,0 +1,16 @@
+﻿using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace AngApi.DAL.Model
+{
+    public class ItemDetailContext : DbContext
+    {
+        public ItemDetailContext(DbContextOptions<ItemDetailContext> options):base(options)
+        {
+
+        }
+        public DbSet<ItemDetail> ItemDetails { get; set; }
+    }
+}
